@@ -1,0 +1,19 @@
+.navbar{
+    grid-area: navbar;
+    background-color: coral;
+}
+
+.item{
+    text-decoration: none;
+    color : white;
+}
+
+.active{
+    text-decoration: none;
+    color : greenyellow;
+}
+
+.wrapper{
+    display : flex;
+    flex-direction: column;
+}
